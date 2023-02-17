@@ -101,6 +101,19 @@
       <Status>DONE</Status>
       <JobTime>2023-02-16T00:00:00</JobTime>
     </PlanItem>
+    <PlanItem>
+      <JobName>Sắp xong ứng dụng</JobName>
+      <FromTime>
+        <X>1</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>10</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>DONE</Status>
+      <JobTime>2023-02-17T00:00:00</JobTime>
+    </PlanItem>
   </Items>
   <IsNotify>false</IsNotify>
   <TimeForNotify>0</TimeForNotify>
