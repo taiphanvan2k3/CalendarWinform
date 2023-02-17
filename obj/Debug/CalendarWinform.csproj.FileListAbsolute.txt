@@ -1,0 +1,13 @@
+E:\BtC#\CalendarWinform\bin\Debug\CalendarWinform.exe.config
+E:\BtC#\CalendarWinform\bin\Debug\CalendarWinform.exe
+E:\BtC#\CalendarWinform\bin\Debug\CalendarWinform.pdb
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.csproj.AssemblyReference.cache
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.csproj.SuggestedBindingRedirects.cache
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.Properties.Resources.resources
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.csproj.GenerateResource.cache
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.csproj.CoreCompileInputs.cache
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.exe
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.pdb
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.DailyPlan.resources
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.FormMain.resources
+E:\BtC#\CalendarWinform\obj\Debug\CalendarWinform.UserControlJob.resources
